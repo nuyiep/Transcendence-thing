@@ -15,11 +15,11 @@
 	- username varchar(50) NOT NULL UNIQUE,
 	- email varchar(255) NOT NULL UNIQUE
 	- );
-	- \dt (to see the tables)
+	- \dt (to view the tables)
 
 ### Alter Table using the commands at db.sql and run with the below commands
 	- \i db.sql (to run the file)
-	- \d users (to see the users)
+	- \d users (to view users)
 
 ### Delete Table
 	- DROP TABLE (table name)
